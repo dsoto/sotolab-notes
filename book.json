@@ -1,6 +1,4 @@
 {
     "gitbook": ">=2.0.0",
-    "title": "Soto Lab Group",
-    "plugins": [ "mathjax" ],
-    "pluginsConfig": {}
+    "title": "Soto Lab Group Notes",
 }
