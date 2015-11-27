@@ -2,3 +2,4 @@
 
 * [Agreements](agreements.md)
 * [Getting Started](getting-started.md)
+* [Research](research.md)
