@@ -8,7 +8,7 @@ technology and economics.
 
 As a researcher, your primary responsibility is to produce research.
 You will learn new skills but maintain an emphasis on accomplishing the
-goals we have set for you.
+goals you set for yourself.
 
 During our meetings, we will review our progress since the last meeting,
 revisit the tasks we want to accomplish, and make a time budget for the
@@ -17,9 +17,8 @@ you have many demands on your time and explicit planning of your time
 and tasks can help you stay productive in your many responsibilities.
 
 # Student Research Assistant Responsibilities
-- Perform at least 5 hours of work per week
 - Attend weekly project and progress meetings
-- Prepare brief weekly summaries of work accomplished for weekly
+- Prepare brief weekly summaries of goals and progress for weekly
   meetings
 
 # Mentor Responsibilities
