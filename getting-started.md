@@ -30,6 +30,11 @@ link to it in the Wiki with Daniel Soto's lab book repository.  As you
 do work, you will post files with your thoughts, code, or results so
 that the other members can keep up with your progress.
 
+Markdown files work well if you aren't generating graphs or explaining
+code.  Jupyter Notebooks work well when you want to show lots of code,
+tables, or graphs.  Both of these are rendered nicely on GitHub so
+others can view your work.
+
 ## Story Boards
 
 For each of our projects, we maintain a "Story Board" in our Google
