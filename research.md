@@ -23,3 +23,12 @@ be awarded, all of the following conditions must be met.
 It is our position that contributions to research that meet some but not
 all of this work will be acknowledged in the paper but not considered
 authorship.
+
+# Literature Search
+
+http://www.howtodoaliteraturereview.com/
+
+# Journal Articles
+
+http://abacus.bates.edu/~ganderso/biology/resources/writing/HTWsections.html
+
